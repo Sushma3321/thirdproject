@@ -1,0 +1,12 @@
+{
+    "id": "4066",
+    "parent_exercise_id": "4064",
+    "name": "Question 2",
+    "slug": "files__files/files-question2_md",
+    "sequence_num": 2,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[\n  \"{\\\"type\\\":\\\"markdown\\\",\\\"value\\\":\\\"files-question2_key1\\\\n\\\\n\\\\nfiles-question2_key2\\\\n\\\"}\"\n]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/files/files/files-question2.md"
+}
